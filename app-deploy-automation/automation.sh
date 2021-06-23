@@ -87,6 +87,7 @@ sudo mysql < db-user.sql
 
 sudo mysql < db-load-script.sql
 
+echo "---------------- Installing apache and php ------------------"
 sudo yum install -y httpd php php-mysql
 
 sudo firewall-cmd --permanent --zone=public --add-port=80/tcp

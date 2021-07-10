@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Automate Application Deployment
+# Automate wordpress installation
 # Author: Thilakraj
 
 

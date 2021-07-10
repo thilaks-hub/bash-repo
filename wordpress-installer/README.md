@@ -14,10 +14,10 @@ Path example : /var/www/html
 
 Once installed you will get the username and password as shown.
 
-=================================================================================
+
 Username : wpadmin
 Password : Kx5SsDePvNH0RvD8
 Domain name : example.com
-=================================================================================
+
 
 You may login to wordpress using example.com/wp-admin, provided you have added domain in the server, document root is same as path and domain is resolving to the host.
